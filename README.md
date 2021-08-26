@@ -1,4 +1,4 @@
-# deneme
+# Vue Öğrenme Projesi
 
 ## Project setup
 ```
